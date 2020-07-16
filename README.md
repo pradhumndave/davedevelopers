@@ -1,4 +1,4 @@
-<img align='right' src='/Pink and Peach Freeform Art Instagram Post.gif' width="420" height="400">
+<img align='right' src='/Pink and Peach Freeform Art Instagram Post.gif' width="420" height="450">
 
 - 🔭 I’m currently working on JavaScript and ReactJS 
 - 🌱 I’m currently learning NodeJS and MongoDB
