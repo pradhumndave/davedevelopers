@@ -1,18 +1,11 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-<img align='left' src='https://www.canva.com/design/DAECHJIXR-s/JF9XBOnzonVhp_P9bvuGJg/view?utm_content=DAECHJIXR-s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink' width='200"'>
-### Hi there 👋
+<img align='center' src='/Pink and Peach Freeform Art Instagram Post.gif''>
+# Hi there 👋
 
-<!--
-**davedevelopers/davedevelopers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-https://www.canva.com/design/DAECHJIXR-s/JF9XBOnzonVhp_P9bvuGJg/view?utm_content=DAECHJIXR-s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on JavaScript and ReactJS 
+- 🌱 I’m currently learning NodeJS and MongoDB
+- 👯 I’m looking to collaborate on React and Frontend Projects
+- 💬 Ask me about JavaScript and Frontend basically
+- 📫 How to reach me: [Pradhumn Dave](https://pradhumndave.tech"My Portfolio")
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I am free most of the time.
