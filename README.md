@@ -1,4 +1,4 @@
-<img align='center' src='/Pink and Peach Freeform Art Instagram Post.gif''>
+<img align='center' src='/Pink and Peach Freeform Art Instagram Post.gif'>
 
 - 🔭 I’m currently working on JavaScript and ReactJS 
 - 🌱 I’m currently learning NodeJS and MongoDB
