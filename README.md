@@ -1,6 +1,4 @@
-<img style="-webkit-box-shadow: 2px 0px 37px -2px rgba(0,0,0,0.75);
--moz-box-shadow: 2px 0px 37px -2px rgba(0,0,0,0.75);
-box-shadow: 2px 0px 37px -2px rgba(0,0,0,0.75);" align='center' src='/Pink and Peach Freeform Art Instagram Post.gif' width="350" height="400">
+<img align='right' src='/Pink and Peach Freeform Art Instagram Post.gif' width="350" height="400">
 
 - 🔭 I’m currently working on JavaScript and ReactJS 
 - 🌱 I’m currently learning NodeJS and MongoDB
